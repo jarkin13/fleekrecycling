@@ -8,8 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://fleekjamie@fleekrecycling.com/~/private/fleek-recycling.git"
+    "url": "https://github.com/jarkin13/fleekrecycling.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
